@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ###  :movie_camera: **Demonstração**
 
-![video](https://user-images.githubusercontent.com/32879408/89724447-6e4ea580-d9d9-11ea-8706-e6c39837f94a.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/32879408/89724530-9ab6f180-d9da-11ea-9299-6740472878ad.gif)
 
 ###  :girl: **Autor**
 <a href="https://github.com/GiovanaNapoli">
