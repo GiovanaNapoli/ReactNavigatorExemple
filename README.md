@@ -1,5 +1,5 @@
 # ReactNavigatorExemple
-## Este é um projeto com exemplos de navegação em React Native, usando a biblioteca [React Navigation](https://reactnavigation.org/docs/getting-started)
+#### Este é um projeto com exemplos de navegação em React Native, usando a biblioteca [React Navigation](https://reactnavigation.org/docs/getting-started)
 
 # 🏁 Índice
 <!--ts-->
@@ -14,7 +14,7 @@
 <!--te-->
 
 
-### :tecnologias: **🛠 Tecnologias**
+###  **🛠 Tecnologias**
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -22,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 
-### :desmonstracao: **🎥 Demonstração**
+###  **🎥 Demonstração**
 
-### :autor: **Autor**
+###  **Autor**
  
