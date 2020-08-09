@@ -12,7 +12,7 @@
 
 ### :bulb: **Objetivo**
 <p>
-    Conhecer os tipos de navegação da <<a href="https://reactnavigation.org/docs/getting-started">biblioteca</a> e aplicá-los para fins de fixação de conhecimento, feito com base no artigo <a href="https://medium.com/wesionary-team/react-navigation-stack-tab-and-drawer-navigation-in-same-react-native-application-16d03441021">React Navigation: Stack, Tab and Drawer Navigation in same React Native Application</a>, encontrado no <a href="https://medium.com/">Medium</a>
+    Conhecer os tipos de navegação da <a href="https://reactnavigation.org/docs/getting-started">biblioteca</a> e aplicá-los para fins de fixação de conhecimento, feito com base no artigo <a href="https://medium.com/wesionary-team/react-navigation-stack-tab-and-drawer-navigation-in-same-react-native-application-16d03441021">React Navigation: Stack, Tab and Drawer Navigation in same React Native Application</a>, encontrado no <a href="https://medium.com/">Medium</a>
 </p>
 
 ###  :hammer: **Tecnologias**
