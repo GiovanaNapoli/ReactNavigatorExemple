@@ -31,8 +31,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Giovana Napoli 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-giovananapoli-blue?style=flatstyle=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-aparecida-napoli-da-silva/)](https://www.linkedin.com/in/giovana-aparecida-napoli-da-silva/)
-
 [![Github Badge](https://img.shields.io/badge/-giovananapoli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GiovanaNapoli)](https://github.com/GiovanaNapoli)
-
 [![Outlook Badge](https://img.shields.io/badge/-outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:giovana.ap.napoli@outlook.com)](mailto:giovana.ap.napoli@outlook.com)
  
