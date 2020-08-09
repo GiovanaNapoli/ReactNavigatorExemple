@@ -4,14 +4,17 @@
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis<a href="https://reactnavigation.org/docs/getting-started">React Navigation</a></p>
 
 <p align="center">
- <a href="#computer-sobre">Objetivo</a> •
+ <a href="#bulb-sobre">Objetivo</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#girl-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
-###  :hamer: **Tecnologias**
+### :bulb: **Objetivo**
+<p>Conhecer os tipos de navegação da biblioteca e aplicá-los para fins de fixação de conhecimento</p>
+
+###  :hammer: **Tecnologias**
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -25,7 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/GiovanaNapoli">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/32879408?s=400&u=73c7032e45a8f93050471d12fc5d5bd8e8797251&v=4" width="100px;" alt="Foto de Perfil Giovana Napoli"/>
  <br />
- <sub><b>Giovana Napoli</b></sub></a> <a href="https://github.com/GiovanaNapoli" title="Rafael Fachinelli">💼</a>
+ <sub><b>Giovana Napoli</b></sub></a> <a href="https://github.com/GiovanaNapoli" title="Giovana Napoli">💼</a>
 
 
 Feito com ❤️ por Giovana Napoli 👋🏽 Entre em contato!
